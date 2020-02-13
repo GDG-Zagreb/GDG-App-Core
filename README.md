@@ -34,13 +34,21 @@ The contributors will create PR’s on repositories which will be hosted on GDG 
 #### Workshops:
 
 #0 Garage to prepare
+
 #1 Flutter - Introduction, project setup, writing together
+
 #2 KTor - Introduction, project setup, writing together
+
 #3 Flutter - Talk + Groups work together on features
+
 #4 Ktor - Talk + Groups work together on features
+
 #5 Flutter - Talk + Groups work together on features
+
 #6 Ktor - Talk + Groups work together on features
-#7 Google cloud 
+
+#7 Google cloud
+
 
 ## Proposed features:
 
