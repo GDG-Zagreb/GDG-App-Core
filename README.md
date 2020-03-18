@@ -25,7 +25,6 @@ The aim of the project is to create an app for the Local and Global GDG Communit
 *Deploy*
 * Firebase App Distribution
 
-
 ### Project flow:
 
 The project will be split into multiple workshops, probably
@@ -53,7 +52,6 @@ The contributors will create PR’s on repositories which will be hosted on GDG 
 
 #7 Google cloud
 
-
 ## Proposed features:
 
 * Home screen
@@ -68,7 +66,7 @@ The contributors will create PR’s on repositories which will be hosted on GDG 
 	* Propose event
         * Search
 * Map
-    * Preview all GDG on the map
+    * Preview all GDGs on the map
     * See GDG details
     * Search GDG nearby
 * Messaging
