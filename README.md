@@ -19,8 +19,11 @@ The aim of the project is to create an app for the Local and Global GDG Communit
 	* Firestore
 	* Cloud messaging
 	* Analytics
+        * Crashlytics 
 * Google  Cloud (AppEngine)
 
+*Deploy*
+* Firebase App Distribution
 
 ### Project flow:
 
@@ -49,7 +52,6 @@ The contributors will create PR’s on repositories which will be hosted on GDG 
 
 #7 Google cloud
 
-
 ## Proposed features:
 
 * Home screen
@@ -62,18 +64,21 @@ The contributors will create PR’s on repositories which will be hosted on GDG 
 * Event calendar
 	* Details about events
 	* Propose event
-* Resources
-	* Codelabs
-	* Examples
-	* Presentations
-	* Articles
-	* Coupons
+        * Search
+* Map
+    * Preview all GDGs on the map
+    * See GDG details
+    * Search GDG nearby
 * Messaging
 * Profile
 * Settings
-* Search
 * Notifications
 * Offers for GDG Members
- (Coupons, discounts, invites)
+    * (Coupons, discounts, invites)
+ * Resources
+     * Codelabs
+     * Examples
+     * Presentations
+     * Articles
 
 
